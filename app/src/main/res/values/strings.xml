@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cryptocurrency &amp; Forex</string>
+    <string name="title_first">Forex Currency Exchange Rate (FX)</string>
+    <string name="cur_exchange_rate">Currency\nexchange rates\n(FX)</string>
+    <string name="all_minut_price">All \nMinute Forex \nPrices</string>
+    <string name="title_second">Digital and Cryptocurrencies</string>
+    <string name="perticular_cur_exchange">Feed for \nDigital &amp; \n Cryptocurrencies</string>
+    <string name="perticular_minut_price">All Minute\nCryptocurrencies\nPrices</string>
+</resources>
